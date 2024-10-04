@@ -1,4 +1,6 @@
-﻿namespace Server.Model
+﻿using System.Text.Json.Serialization;
+
+namespace Server.Model
 {
     public class PedidoModel
     {
@@ -8,6 +10,7 @@
         public int IdStatus { get; set; }
         public int IdCarrinho { get; set; }
         public CarrinhoModel Carrinho { get; set; }
+        [JsonIgnore]
         public ICollection<ItemPedidoModel> ItemPredido { get; set; }
     }
 }

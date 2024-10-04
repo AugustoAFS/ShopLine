@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using Server.data;
+
 namespace Server
 {
     public class Program
@@ -7,8 +10,11 @@ namespace Server
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-
+            builder.Services.AddDbContext<ShopLineDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
+            
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

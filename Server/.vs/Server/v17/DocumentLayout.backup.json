@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|c:\\users\\augus\\onedrive\\desktop\\shopline\\server\\model\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|solutionrelative:model\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|c:\\users\\augus\\onedrive\\desktop\\shopline\\server\\model\\carrinhomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|solutionrelative:model\\carrinhomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|c:\\users\\augus\\onedrive\\desktop\\shopline\\server\\model\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65CB5641-C0B6-4AE4-85C4-E22ED5B08F53}|Server.csproj|solutionrelative:model\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnderecoModel.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\EnderecoModel.cs",
-              "RelativeDocumentMoniker": "Model\\EnderecoModel.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\EnderecoModel.cs",
-              "RelativeToolTip": "Model\\EnderecoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:08:06.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarrinhoModel.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\CarrinhoModel.cs",
-              "RelativeDocumentMoniker": "Model\\CarrinhoModel.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\CarrinhoModel.cs",
-              "RelativeToolTip": "Model\\CarrinhoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:07:01.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PessoaModel.cs",
-              "DocumentMoniker": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\PessoaModel.cs",
-              "RelativeDocumentMoniker": "Model\\PessoaModel.cs",
-              "ToolTip": "C:\\Users\\augus\\OneDrive\\Desktop\\ShopLine\\Server\\Model\\PessoaModel.cs",
-              "RelativeToolTip": "Model\\PessoaModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:00:40.031Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
